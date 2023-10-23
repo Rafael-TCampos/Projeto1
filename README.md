@@ -1,4 +1,4 @@
-# Validador de Senha
+![Captura de tela de 2023-10-22 21-06-12](https://github.com/Rafael-TCampos/Verificacao-Senha/assets/119149285/d2a590b0-1c93-48f8-a4b1-7106566a6de0)
 >https://verificacao-senha.vercel.app/
 
 Este é um projeto de um validador de senha simples criado com HTML, CSS e JavaScript.
